@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Ahmed</h1>
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&pause=1000&color=0EF70E&center=true&vCenter=true&width=435&lines=Always+Learning+%26+Growing;Full+Stack+Mern+Developer;Cisco+Verified+Web+Developer;Building+Responsive+Web+Solutions" alt="Typing SVG" /></a>](https://readme-typing-svg.herokuapp.com/demo/?font=poppins&color=0EF70E&center=true&vCenter=true&lines=Always+Learning+%26+Growing;Full+Stack+Mern+Developer;Cisco+Verified+Web+Developer;Building+Responsive+Web+Solutions)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&pause=1000&color=0EF70E&center=true&vCenter=true&width=435&lines=Always+Learning+%26+Growing;Full+Stack+Mern+Developer;Cisco+Verified+Web+Developer;Building+Responsive+Web+Solutions" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usama-ahmed-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="usama-ahmed-rajput" /> </p>
