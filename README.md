@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Usama%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Usama%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"&
+   desc=Full%20Stack%20MERN%20Developer%20%7C%20Karachi%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=55&descColor=a0a0ff" width="100%"/
+    />
 </div>
 
 <div align="center">
