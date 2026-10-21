@@ -211,10 +211,10 @@ If you like my projects, consider giving them a ⭐️!
 ### 💬 **I'm always open to interesting conversations and collaboration opportunities!**
 
 <p>
-  <a href="https://usama-ahmed.vercel.app/" target="_blank">
+  <a href="https://usamaahmed.site.je/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in//usama-ahmed-rajput/" target="_blank">
+  <a href="https://www.linkedin.com/in/usama-ahmed-rajput/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:usamadeveloper05@gmail.com">
