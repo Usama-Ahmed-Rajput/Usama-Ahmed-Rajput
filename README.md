@@ -47,7 +47,7 @@ const Usama = {
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 Reach me: **usamadeveloper05@gmail.com**
-- ⚡ Portfolio: **[usama-ahmed.vercel.app](https://usama-ahmed.vercel.app/)**
+- ⚡ Portfolio: **[usamaahmed.site.je](https://usamaahmed.site.je)**
 
 ---
 
