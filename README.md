@@ -131,7 +131,7 @@ const Usama = {
     </td>
     <td align="center" width="50%">
       <h3>🌐 Portfolio Website</h3>
-      <a href="https://usama-ahmed.vercel.app/">
+      <a href="https://usamaahmed.site.je/">
         <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
       </a>
       <br/>
